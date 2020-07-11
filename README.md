@@ -6,6 +6,6 @@
 * Spring Tool Suite
 * Google Maps API
 * HTML
-*BootStrap
-*CSS
+* BootStrap
+* CSS
 
